@@ -1,0 +1,7 @@
+1) configurar server y base de datos
+2)crear la carpeta models ====> para los modelos de la base de datos
+routes ====> para armar las diferentes rutas
+ controllers ===> para agregar todas las funcionalidades
+ 3) luego de crear el modelo lo iporto en su ruta correspondinte(importo book model en books-routes)
+ 4)la funcionalidad armada en routes la paso a controllers
+
